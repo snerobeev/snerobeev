@@ -1,5 +1,6 @@
 ## Hi👋 I'm Sergei!
 Java Backend Developer | TDD Advocate 🚀"
+I have a keen interest in economic cybernetics and enjoy creating software solutions that apply its principles to economic systems.
 
 ### 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
