@@ -1,5 +1,5 @@
 ## Hi👋 I'm Sergei!
-Java Backend Developer | TDD Advocate 🚀
+1С Developer | Java Backend Developer | TDD Advocate 🚀
 
 ### 💻 Tech Stack:
 [![1С Предприятие 8.5](https://img.shields.io/badge/1%D0%A1-%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5%208.5-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/)
