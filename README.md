@@ -17,7 +17,6 @@
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
 [![JUnit5](https://img.shields.io/badge/Junit5-25A4AD?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![TestNG](https://img.shields.io/badge/TestNG-FD2C2C?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/doc/index.html)
