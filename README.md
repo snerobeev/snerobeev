@@ -3,6 +3,7 @@
 
 ### 💻 Tech Stack:
 [![1С Предприятие 8.5](https://img.shields.io/badge/1%D0%A1-%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5%208.5-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/)
+[![1С ibcmd](https://img.shields.io/badge/1%D0%A1-ibcmd-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/)
 [![1С УТ-11](https://img.shields.io/badge/1%D0%A1-%D0%A3%D0%A2--11-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/trade/)
 [![1С ЗУП-3](https://img.shields.io/badge/1%D0%A1-%D0%97%D0%A3%D0%9F--3-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/hrm/)
 [![Vanessa Automation](https://img.shields.io/badge/BDD-Vanessa%20Automation-FFD200?style=for-the-badge&labelColor=CC0000)](https://github.com/Pr-Mex/vanessa-automation)
