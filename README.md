@@ -29,8 +29,7 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-Currently working on an open-source Java library Vowel4j: https://github.com/snerobeev/vowel4j
-All aspiring contributors are welcome to join the development efforts!
+Building **[Vowel4j](https://github.com/snerobeev/vowel4j)**, an open-source Java library. Come join me!
 
 
 
