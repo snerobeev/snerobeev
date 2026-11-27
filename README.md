@@ -1,7 +1,7 @@
-## Hi👋 I'm Sergei!
-1С Developer | Java Backend Developer | TDD Advocate 🚀
+## Cергей Нeробеев
+## 1С разработчик | Java разработчик TDD | Автоматизация тестирования
 
-### 💻 Tech Stack:
+## Стек технологий:
 [![1С Предприятие 8.5](https://img.shields.io/badge/1%D0%A1-%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5%208.5-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/)
 [![1С ibcmd](https://img.shields.io/badge/1%D0%A1-ibcmd-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/)
 [![1С УТ-11](https://img.shields.io/badge/1%D0%A1-%D0%A3%D0%A2--11-FFD200?style=for-the-badge&labelColor=CC0000)](https://v8.1c.ru/trade/)
@@ -29,17 +29,12 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-Building **[Vowel4j](https://github.com/snerobeev/vowel4j)**, an open-source Java library. Come join me!
+Разрабатываю **[Vowel4j](https://github.com/snerobeev/vowel4j)**: open-source библиотеку на Java. Присоединяйтесь!
+
+Обучаю начинающих 1С-разработчиков на учебном проекте **[Верный Друг](https://github.com/snerobeev/verny-drug)**: от ветки в Git до выкладки в рабочую базу.
 
 
-
-
-
-
-
-
-
-## 🌐 Connect with me:
+## 🌐Связаться со мной:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergei-nerobeev)
 
